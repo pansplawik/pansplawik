@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Kamil Spławiński.<br>I’m interested in software, machine learning, cicling, football and music.<br>I'm currently a software developer at NubiSoft.<br>How to reach me https://www.linkedin.com/in/kamil-sp%C5%82awi%C5%84ski-ab29731b7/.<br>This is my commercial repository in gitlab: https://gitlab.com/pansplawik.<br>
+Hi, I’m Kamil Spławiński.<br>I’m interested in software, machine learning, cycling, football and music.<br>I'm currently a software developer at NubiSoft.<br>How to reach me https://www.linkedin.com/in/kamil-sp%C5%82awi%C5%84ski-ab29731b7/.<br>This is my commercial repository in gitlab: https://gitlab.com/pansplawik.<br>
 
 
 ## 🌐 Socials:
